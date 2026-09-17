@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import confetti from 'canvas-confetti';
-import Sprinkles from './components/sprinkles';
+import Sprinkles from './components/Sprinkles';
 import PhotoCard from './components/PhotoCard';
 import MessageTable from './components/MessageTable';
 import PuzzleLayer from './components/PuzzleLayer';
